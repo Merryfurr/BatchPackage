@@ -1,2 +1,3 @@
 language: visualbasic
 solution: BatchPacketMan.sln
+script: xbuild /p:Configuration=Release BatchPacketMan.sln
